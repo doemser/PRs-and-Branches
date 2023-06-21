@@ -4,6 +4,6 @@
 
 Because they are cool!
 
-## We are using our first branch!
+## We are using our first branch! Yihaaa!
 
-This is soo cool! Yihaaa!
+This is soo cool!
